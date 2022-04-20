@@ -1,5 +1,4 @@
-***CSE 15L Lab Report***
-
+#CSE 15L Lab Report
 ---
 
 In first week of the CSE 15L we learned how to remotelly connect to a server, tested a few commands after connecting, moved files using scp, set up an SSH key, and optimize mote running. Below will be a detailed explantion to the steps I took for each of these parts with visual examples. 
